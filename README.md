@@ -1,5 +1,3 @@
-My site for the Python programming course
-
 Heya! 
 
 I'm Shahar. I'm a PhD candidate in molecular biology and I like video games.
