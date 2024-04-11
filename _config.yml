@@ -1,4 +1,4 @@
-theme: minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Shahar's Stuff
 description: Here I'll put my stuff, i guess
 baseurl: shahargarin.github.io
