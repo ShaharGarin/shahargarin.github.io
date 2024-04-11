@@ -3,4 +3,4 @@
 My site for the Python programming course
 
 
-<p>https://i.redd.it/r9imxd0clz4c1.jpg</p>
+[](/https://i.redd.it/r9imxd0clz4c1.jpg "Rebirth")
