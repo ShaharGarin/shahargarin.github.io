@@ -1,5 +1,3 @@
-# shahargarin.github.io
-
 My site for the Python programming course
 
 [Wanna see a cool guy?](/coolguy.md)
