@@ -2,7 +2,8 @@ Heya!
 
 I'm Shahar. I'm a PhD candidate in molecular biology and I like video games.
 
-* [Wanna see a cool guy?](/coolguy.md)
+* [My Assignments Repository](https://github.com/ShaharGarin/shahar_assignment.github.io.git)
+*  [Wanna see a cool guy?](/coolguy.md)
 * [My lab](https://www.weizmann.ac.il/molgen/Gerst/home)
 
 This is a repository created during the '[Basic Programming Skills (Python)](/pythoncoursepage.md)' course at the Weizmann's Institute of Science. There are other students in the calss as well:
