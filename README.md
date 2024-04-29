@@ -2,7 +2,7 @@ Heya!
 
 I'm Shahar. I'm a PhD candidate in molecular biology and I like video games.
 
-* [My Assignments Repository](https://github.com/ShaharGarin/shahar_assignment.github.io.git)
+* [My Assignments Repository](https://github.com/ShaharGarin/shahar_assignment)
 *  [Wanna see a cool guy?](/coolguy.md)
 * [My lab](https://www.weizmann.ac.il/molgen/Gerst/home)
 
